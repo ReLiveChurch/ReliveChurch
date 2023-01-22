@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: gregorio.cedres@gmail.com
+- 
 
 ![FB_IMG_1674405230252](https://user-images.githubusercontent.com/123317569/213931164-e02b981d-3cbf-4256-923d-a6bd3767bb33.jpg)
 ![FB_IMG_1674405238445](https://user-images.githubusercontent.com/123317569/213931170-ec5d0d72-9976-4b46-90e9-f74230638c34.jpg)
